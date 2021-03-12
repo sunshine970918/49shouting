@@ -1,6 +1,17 @@
-{
-    "accountSn": "1",
-    "user-1": "1*****1",
-    "password-1": "1*****1",
-    "appid-1": "1*****1"
-}
+[
+    {
+    "user": "13076709181",
+    "password": "970918",
+    "appi": "64cdd06dbf1ba0c9db682c64ebcf3ec7c3a62f925e89588cca72f8b6b1192d7989ed17dbca12bcc647607debdc5147c968b9e671a6880d02bbbfcaf5c369e1c1f9421e70084bb6fd938a623e899a5ad8"
+    },
+    {
+    "user": "13078819104",
+    "password": "901101",
+    "appid": "64cdd06dbf1ba0c9db682c64ebcf3ec7c3a62f925e89588cca72f8b6b1192d7989ed17dbca12bcc647607debdc5147c968b9e671a6880d02bbbfcaf5c369e1c1f9421e70084bb6fd938a623e899a5ad8"
+    },
+    {
+    "user": "17666579709",
+    "password": "970918",
+    "appid": "64cdd06dbf1ba0c9db682c64ebcf3ec7c3a62f925e89588cca72f8b6b1192d7989ed17dbca12bcc647607debdc5147c968b9e671a6880d02bbbfcaf5c369e1c1f9421e70084bb6fd938a623e899a5ad8"
+    }
+]
